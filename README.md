@@ -91,7 +91,7 @@ saved_collection = client.get_collection(name="product_data")
 
 saved_collection.add(documents=json_string_objects, ids=unique_ids)
 ```
-First we will get our created collection from disc, The get_collection() method loads the collection present in disc. The add() method adds the product data to the collection. We specify the JSON strings and product IDs as the documents and ids arguments, respectively.
+First we will get our created collection from disc, The get_collection() method loads the collection present in disc. The add() method adds the product data to the collection. We specify the JSON strings and product IDs as the documents and ids arguments, respectively. The id's should be unique for each document.
 
 ### Step 7: Query the product data
 
@@ -112,7 +112,7 @@ print(results)
 
 ### Output
 
-Here is our output
+Here is our output, as we can see it returns most similar products.
 
 ```python
 {
