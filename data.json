@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone",
+    "description": "A high-quality smartphone with the latest features and technology.",
+    "price": "599.99"
+  },
+  {
+    "id": "2",
+    "name": "Laptop",
+    "description": "A powerful laptop for work and entertainment purposes.",
+    "price": "999.99"
+  },
+  {
+    "id": "3",
+    "name": "Headphones",
+    "description": "Wireless headphones with noise-cancelling technology.",
+    "price": "149.99"
+  },
+  {
+    "id": "4",
+    "name": "Smart Watch",
+    "description": "A stylish and functional smartwatch for tracking your daily activities.",
+    "price": "199.99"
+  },
+  {
+    "id": "5",
+    "name": "Digital Camera",
+    "description": "A high-resolution digital camera for capturing stunning photos and videos.",
+    "price": "499.99"
+  },
+  {
+    "id": "6",
+    "name": "Coffee Maker",
+    "description": "An automatic coffee maker for brewing your favorite beverages.",
+    "price": "79.99"
+  },
+  {
+    "id": "7",
+    "name": "Gaming Console",
+    "description": "A gaming console for immersive gaming experiences.",
+    "price": "299.99"
+  },
+  {
+    "id": "8",
+    "name": "Bluetooth Speaker",
+    "description": "A portable Bluetooth speaker for enjoying music on the go.",
+    "price": "49.99"
+  },
+  {
+    "id": "9",
+    "name": "Fitness Tracker",
+    "description": "A fitness tracker to monitor your health and activity levels.",
+    "price": "79.99"
+  },
+  {
+    "id": "10",
+    "name": "Wireless Charging Pad",
+    "description": "A wireless charging pad compatible with most smartphones.",
+    "price": "29.99"
+  },
+  {
+    "id": "11",
+    "name": "Screen Protector",
+    "description": "A high-quality screen protector to keep your smartphone's display safe.",
+    "price": "9.99"
+  },
+  {
+    "id": "12",
+    "name": "Phone Case",
+    "description": "A protective phone case designed to safeguard your smartphone from drops and impacts.",
+    "price": "19.99"
+  },
+  {
+    "id": "13",
+    "name": "Car Mount Holder",
+    "description": "A car mount holder for securely placing your smartphone while driving.",
+    "price": "14.99"
+  },
+  {
+    "id": "14",
+    "name": "Bluetooth Earbuds",
+    "description": "Wireless Bluetooth earbuds for a great audio experience with your smartphone.",
+    "price": "59.99"
+  }
+]
