@@ -20,7 +20,7 @@ pip install chromadb
 
 This project consists of the following files:
 
-- `main.py`: The main Python script that demonstrates how to use ChromaDB to store and query data.
+- `app.py`: The main Python script that demonstrates how to use ChromaDB to store and query data.
 - `data.json`: A sample JSON file containing data for the project. You can replace it with your own data.
 - `README.md`: This README file providing instructions and information about the project.
 
