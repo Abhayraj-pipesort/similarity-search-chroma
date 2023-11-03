@@ -1,4 +1,4 @@
-# similarity-search with ChromaDB
+# Similarity-search with ChromaDB
 
 In this project, we'll go through the process of setting up ChromaDB, loading data from a JSON file, and performing simple queries to get similar products. You can expand upon this foundation to build more advanced data management systems for your own applications.
 
